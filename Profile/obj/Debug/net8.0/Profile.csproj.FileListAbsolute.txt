@@ -28,3 +28,4 @@ C:\Users\taing\OneDrive\Pictures\Cá Nhân\Profile_NBTT\Profile\obj\Debug\net8.0
 C:\Users\taing\OneDrive\Pictures\Cá Nhân\Profile_NBTT\Profile\obj\Debug\net8.0\Profile.pdb
 C:\Users\taing\OneDrive\Pictures\Cá Nhân\Profile_NBTT\Profile\obj\Debug\net8.0\Profile.genruntimeconfig.cache
 C:\Users\taing\OneDrive\Pictures\Cá Nhân\Profile_NBTT\Profile\obj\Debug\net8.0\ref\Profile.dll
+C:\Users\taing\OneDrive\Pictures\Cá Nhân\Profile_NBTT\Profile\obj\Debug\net8.0\Profile.sourcelink.json
